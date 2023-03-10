@@ -1,0 +1,13 @@
+body{
+    background-color: #16161D;
+    background-repeat:no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    overflow: scroll;
+    color: white;
+    text-align: center;
+}
+footer{
+    color: white;
+    text-align: center;
+}
