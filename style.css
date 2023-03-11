@@ -11,11 +11,11 @@ body{
 body hr{
     display: inline-block;
     align-items: center;
-    width: 50%;
+    width: 52%;
 }
 a{
     color: #faffc7;
- }
+}
 summary{
     font-weight: bold;
 }
